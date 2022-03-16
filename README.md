@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @samueleke
+- 👀 I’m interested in Java or Fullstack Internships.
+- 🌱 I’m currently learning Web development, Java, SQL.
+- 📫 Feel free to reach out via LinkedIn: www.linkedin.com/in/samuel-eke-/
